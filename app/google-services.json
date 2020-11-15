@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006008051692",
+    "firebase_url": "https://city-university-b0251.firebaseio.com",
+    "project_id": "city-university-b0251",
+    "storage_bucket": "city-university-b0251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006008051692:android:78b61ba4b29596afd002c9",
+        "android_client_info": {
+          "package_name": "com.example.city_university_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006008051692-eia08ul57m6i42f2olubj9pbonhvqodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0A_M_W_Yj8Zdg4rBH24GwQiJNadaqvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006008051692-eia08ul57m6i42f2olubj9pbonhvqodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
